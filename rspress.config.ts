@@ -3,6 +3,7 @@ import { defineConfig } from '@rspress/core';
 
 export default defineConfig({
   root: path.join(__dirname, 'docs'),
+  base:'/fcitx-doc/',
   title: 'Fcitx5 Docs',
   icon: '/linux-icon.png',
   lang: 'zh',
