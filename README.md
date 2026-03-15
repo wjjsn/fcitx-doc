@@ -1,11 +1,17 @@
-# README
+# 关于本项目
+
+⚠️**这不是官方文档，不保证内容的100%准确**
+
+由于原版文档没法快速喂给 LLM，所以选择了这个文档框架进行迁移。
+
+过程中使用了大量 AI 辅助 不保证内容的准确性！
 
 ## Setup
 
 Install the dependencies:
 
 ```bash
-npm install
+pnpm install
 ```
 
 ## Get started
@@ -13,17 +19,17 @@ npm install
 Start the dev server:
 
 ```bash
-npm run dev
+pnpm run dev
 ```
 
 Build the website for production:
 
 ```bash
-npm run build
+pnpm run build
 ```
 
 Preview the production build locally:
 
 ```bash
-npm run preview
+pnpm run preview
 ```
