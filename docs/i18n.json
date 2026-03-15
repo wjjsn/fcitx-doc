@@ -1,0 +1,18 @@
+{
+  "navbar": {
+    "en": "Navigation Bar",
+    "zh": "导航栏"
+  },
+  "sidebar": {
+    "en": "Sidebar",
+    "zh": "侧边栏"
+  },
+  "home": {
+    "title": "Home",
+    "zh": "首页"
+  },
+  "guide": {
+    "title": "Guide",
+    "zh": "指南"
+  }
+}
