@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wjjsn.github.io/fcitx-doc/sitemap.xml

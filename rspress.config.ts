@@ -1,5 +1,6 @@
 import * as path from 'node:path';
 import { defineConfig } from '@rspress/core';
+import { pluginSitemap } from '@rspress/plugin-sitemap';
 
 export default defineConfig({
   root: path.join(__dirname, 'docs'),
@@ -46,5 +47,12 @@ export default defineConfig({
       placement: 'title',
     },
   },
-  
+  head: [
+    ['link', { rel: 'canonical', href: 'https://wjjsn.github.io/fcitx-doc/' }],
+  ],
+  plugins: [
+    pluginSitemap({
+      siteUrl: 'https://wjjsn.github.io/fcitx-doc/',
+    }),
+  ],
 });

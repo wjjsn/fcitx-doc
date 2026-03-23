@@ -1,3 +1,5 @@
+# fcitx5 文档\fcitx5 doc
+# [网页链接](https://wjjsn.github.io/fcitx-doc/)
 # 关于本项目
 
 ⚠️**这不是官方文档，不保证内容的100%准确**
