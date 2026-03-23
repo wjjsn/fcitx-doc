@@ -49,6 +49,7 @@ export default defineConfig({
   },
   head: [
     ['link', { rel: 'canonical', href: 'https://wjjsn.github.io/fcitx-doc/' }],
+    ['meta', { name: 'google-site-verification', content: 'nrt68nTtYzrWxAOALgMvQRyaJS1N0fcnotfgfR0Iyxk' }],
   ],
   plugins: [
     pluginSitemap({
