@@ -1,4 +1,7 @@
 ---
+title: Fcitx5 Guide
+description: Fcitx is an extensible input method framework for Linux and Unix-like systems.
+
 pageType: home
 
 hero:
