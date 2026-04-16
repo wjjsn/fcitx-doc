@@ -1,3 +1,8 @@
+---
+title: 报告Bug
+description: 介绍如何向Fcitx项目报告漏洞和问题，以及报告前需要注意的事项
+---
+
 # 报告Bug
 
 您可以到[问题列表](https://code.google.com/p/fcitx/issues/list)这里报告漏洞, 不过还请您先阅读注意事项，或者您也可以先看看[FAQ](../Users/FAQ)。

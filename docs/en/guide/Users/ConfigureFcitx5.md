@@ -1,3 +1,8 @@
+---
+title: Configure Fcitx 5
+description: 介绍如何配置Fcitx 5，包括开机自启动、环境变量设置、DBus配置等。
+---
+
 # Configure Fcitx 5
 
 ### Auto-start on Boot

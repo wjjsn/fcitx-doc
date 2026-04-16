@@ -1,3 +1,8 @@
+---
+title: Developer FAQ
+description: Frequently asked questions for Fcitx5 developers, covering UI customization, configuration options, testing, and more.
+---
+
 # Developer FAQ
 
 This is a page answering some questions.

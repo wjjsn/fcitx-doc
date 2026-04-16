@@ -1,3 +1,8 @@
+---
+title: Basic Concepts
+description: Understanding Fcitx5 architecture including addons, input contexts, event handling, and key event lifecycle.
+---
+
 # Basic Concepts
 
 ## Addons

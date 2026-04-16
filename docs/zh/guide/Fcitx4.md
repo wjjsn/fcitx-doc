@@ -1,4 +1,7 @@
-# Fcitx 4
+---
+title: Fcitx 4
+description: Fcitx 是一个支持扩展的输入法框架，支持 Linux 和 Unix 系统，包括拼音、区位和基于码表的输入法引擎。
+---
 
 Fcitx [ˈfaɪtɪks] 是一个支持扩展的输入法框架。当前它支持 Linux 和 Unix 系统，例如 freebsd。它包括了三个内置的输入法引擎，拼音，区位和基于码表的输入法。
 

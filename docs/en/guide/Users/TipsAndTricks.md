@@ -1,3 +1,8 @@
+---
+title: Tips and Tricks
+description: Fcitx 5使用技巧，包括快速短语、Unicode输入、Compose键和Emoji输入等。
+---
+
 # Tips and Tricks
 
 ## Input Special Characters

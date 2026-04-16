@@ -1,3 +1,8 @@
+---
+title: Using Fcitx5 on Wayland
+description: 介绍在Wayland上使用Fcitx 5的方法，包括不同桌面环境的配置和已知问题。
+---
+
 # Using Fcitx5 on Wayland
 
 ## Using Fcitx 5 on Wayland

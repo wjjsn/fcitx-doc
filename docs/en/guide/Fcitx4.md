@@ -1,3 +1,8 @@
+---
+title: Fcitx 4
+description: Fcitx是一个可扩展的输入法框架，支持Linux和Unix系统，包含内置的拼音、区位和表格输入法引擎。
+---
+
 # Fcitx 4
 
 Fcitx [ˈfaɪtɪks] is an extensible input method framework. Currently it supports Linux and Unix systems such as FreeBSD. It includes three built-in input method engines: Pinyin, Quwei, and table-based input methods.

@@ -1,3 +1,8 @@
+---
+title: Debug Fcitx5
+description: A guide to debugging Fcitx5, covering log printing, GDB usage, test addons, and various debugging techniques.
+---
+
 # Debug fcitx5
 
 ## Printing Logs

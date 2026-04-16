@@ -1,3 +1,8 @@
+---
+title: Theme Customization
+description: 介绍Fcitx5的主题引擎，包括经典UI选项、Kimpanel以及不同桌面环境的集成。
+---
+
 # Theme Customization
 
 Fcitx5 has a simple theme engine based on custom ini-style config files and images. It works for both server-side input method UI and fcitx5's new client-side input method UI. On X11, the input method window is rendered by fcitx's server program. But on Wayland, it may be rendered by client programs like Qt or Gtk. They share similar logic and most features. However, Qt is an exception - because the window in Qt is rendered by the local Qt library API, it does not support the "render text with input method language" option.

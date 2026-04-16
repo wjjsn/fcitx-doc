@@ -1,3 +1,8 @@
+---
+title: Contribute to Wiki
+description: Guide for contributing to the Fcitx5 documentation project via Issues and Pull Requests.
+---
+
 # Contribute to this Wiki
 
 ## Contributing to this project

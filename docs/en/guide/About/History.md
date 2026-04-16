@@ -1,3 +1,8 @@
+---
+title: History
+description: The history of Fcitx development, from its origins as gWubi to becoming a major input method framework, including release history.
+---
+
 # History
 
 Fcitx was developed from a project called gWubi created by Yuking. Yuking himself is a Wubi input method user, so initially fcitx only supported the Wubi input method.

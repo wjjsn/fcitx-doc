@@ -1,3 +1,8 @@
+---
+title: Report Bugs
+description: 如何报告Fcitx的bug，包括报告bug的注意事项、常见问题排查、崩溃bug的报告方法以及功能请求的提交方式。
+---
+
 # Report Bugs
 
 You can report bugs at the [Issue List](https://code.google.com/p/fcitx/issues/list), but please read the precautions first, or you can also check the [FAQ](../Users/FAQ).

@@ -1,3 +1,8 @@
+---
+title: About This Project
+description: Information about this documentation project for Fcitx 5.
+---
+
 # About This Project
 
 ⚠️**This is not official documentation, content may not be 100% accurate**

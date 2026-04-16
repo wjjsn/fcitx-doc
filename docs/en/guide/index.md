@@ -1,3 +1,8 @@
+---
+title: Home
+description: Welcome to Fcitx5 documentation. Fcitx is an extensible input method framework for Linux and Unix-like systems.
+---
+
 # Home
 
 Little Penguin Input Method (Fcitx, pronounced [ˈfaɪtɪks]) is an extensible input method framework. Currently, it supports Linux and Unix-like operating systems such as FreeBSD. Fcitx supports a wide variety of languages from around the world through the use of various input method engines.

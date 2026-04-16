@@ -1,4 +1,6 @@
 ---
+title: Fcitx5
+description: Fcitx5 是小企鹅输入法框架，支持扩展的输入法框架，通过各种输入法引擎支持全球多种语言。
 pageType: home
 
 hero:

@@ -1,4 +1,7 @@
-# 设置 Fcitx 5
+---
+title: 设置 Fcitx 5
+description: 了解如何在 Linux 系统上配置 Fcitx 5，包括开机自启动、环境变量设置和 DBus 配置。
+---
 
 ### 开机自启动
 

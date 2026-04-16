@@ -1,3 +1,8 @@
+---
+title: 调试 fcitx5
+description: 介绍调试Fcitx5的各种方法，包括打印日志、使用GDB调试器和测试插件
+---
+
 # 调试 fcitx5
 
 ## 打印日志

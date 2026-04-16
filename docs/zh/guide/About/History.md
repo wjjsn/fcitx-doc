@@ -1,4 +1,7 @@
-# 历史
+---
+title: Fcitx 历史
+description: Fcitx 的发展历史，从 gWubi 项目衍生至今的完整版本发布记录。
+---
 
 Fcitx 是从Yuking创建的一个叫做gWubi的项目发展衍生而来的。Yuking本身是一个五笔输入法用户，所以最开始的fcitx仅仅只支持五笔输入法。
 

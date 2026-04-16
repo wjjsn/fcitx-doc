@@ -1,3 +1,8 @@
+---
+title: Upgrade from Fcitx4
+description: 从Fcitx 4升级到Fcitx 5的指南，包括数据迁移、包名称对照和配置方法。
+---
+
 # Upgrade from Fcitx4
 
 ## Where is my data?

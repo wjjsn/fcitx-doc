@@ -1,4 +1,7 @@
-# 从Fcitx4升级
+---
+title: 从 Fcitx 4 升级
+description: 从 Fcitx 4 升级到 Fcitx 5 的指南，包括数据迁移路径和软件包对应关系。
+---
 
 ## 我的数据在哪里？
 几乎所有 Fcitx 4 的数据都存储在 <code>~/.config/fcitx</code> 下。

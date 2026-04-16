@@ -1,3 +1,8 @@
+---
+title: Install Fcitx5
+description: 介绍如何安装Fcitx 5，包括从Linux发行版安装、Flatpak安装和源码编译。
+---
+
 # Install Fcitx5
 
 ## Installing Fcitx 5

@@ -1,3 +1,8 @@
+---
+title: 技巧和窍门
+description: 介绍Fcitx 5中输入特殊字符、Emoji和Unicode的各种技巧和窍门
+---
+
 # 技巧和窍门
 
 ## 输入特殊字符

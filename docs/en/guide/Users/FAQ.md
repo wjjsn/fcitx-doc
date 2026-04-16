@@ -1,3 +1,8 @@
+---
+title: FAQ
+description: 常见问题解答，包括无法激活Fcitx、候选窗口闪烁、特殊应用兼容性等问题。
+---
+
 # FAQ
 
 Please read this page before complaining that the input method doesn't work.

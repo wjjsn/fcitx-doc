@@ -1,3 +1,8 @@
+---
+title: Donate
+description: Fcitx捐款指南，说明如何向Fcitx项目捐款支持开发者，以及开发者捐款记录。
+---
+
 # Donate
 
 For privacy reasons, we will only list the date and amount for all donations here (donation history).

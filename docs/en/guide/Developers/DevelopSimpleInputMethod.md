@@ -1,3 +1,8 @@
+---
+title: Develop Simple Input Method
+description: A step-by-step guide to writing Fcitx 5 input methods, covering addon structure, CMake build system, and implementation details.
+---
+
 This is a step-by-step guide to writing Fcitx 5 input methods. The same steps can also be used to develop other types of addons, except that input method engines are the most complex.
 
 # Develop Simple Input Method

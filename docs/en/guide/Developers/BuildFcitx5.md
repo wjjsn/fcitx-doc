@@ -1,3 +1,8 @@
+---
+title: Build Fcitx5
+description: Instructions for building and installing Fcitx5 from source on GNU/Linux systems, including dependencies and build process.
+---
+
 # Build Fcitx 5
 
 Although fcitx5 is packaged in many GNU/Linux distributions, some of them (like Gentoo) did not officially provide it before May 2020. This article aims to provide general instructions on how to build and install fcitx5 in your GNU/Linux system.

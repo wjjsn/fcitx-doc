@@ -1,4 +1,7 @@
-# Wayland下使用Fcitx5
+---
+title: Wayland 下使用 Fcitx 5
+description: 在 Wayland 显示服务器协议上配置和使用 Fcitx 5 的详细指南，包括各桌面环境和合成器的支持情况。
+---
 
 ## 在 Wayland 下使用 Fcitx 5
 

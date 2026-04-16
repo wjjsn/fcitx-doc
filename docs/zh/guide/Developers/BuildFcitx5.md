@@ -1,3 +1,8 @@
+---
+title: 编译 Fcitx 5
+description: 介绍如何在GNU/Linux系统中编译和安装Fcitx5，包括依赖项和构建过程
+---
+
 # 编译 Fcitx 5
 
 虽然 fcitx5 在许多 GNU/Linux 发行版中都有包，但其中一些（如 Gentoo）在 2020 年 5 月之前没有正式提供它。本文旨在提供关于如何在您的 GNU/Linux 系统中编译和安装 fcitx5 的一般说明。
