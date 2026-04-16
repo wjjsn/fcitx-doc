@@ -13,7 +13,7 @@ hero:
       text: GitHub
       link: https://github.com/fcitx/fcitx5
   image:
-    src: /rspress-icon.png
+    src: /linux-icon.png
     alt: Logo
 features:
   - title: Lightweight & Efficient
